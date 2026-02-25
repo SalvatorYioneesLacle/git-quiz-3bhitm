@@ -38,7 +38,7 @@ Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funkti
 
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: https://github.com/SalvatorYioneesLacle/git-quiz-3bhitm
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
